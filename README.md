@@ -1,8 +1,11 @@
 
 
 ## 🧑‍💻 Liara Freitas 
-Tenho 24 anos e sou formada em **Ciência da Computação pela [Unijuí](https://www.unijui.edu.br/)**. Atualmente, trabalho como **Analista de Suporte Júnior na [Philips do Brasil](https://www.philips.com.br/)**. Sou apaixonada por **tecnologia** e estou focada em estudar **desenvolvimento backend**, aprimorando minhas habilidades em Java, Spring Boot e desenvolvimento de APIs. Além disso, compartilho meu dia a dia e aprendizados na área de tecnologia no meu Instagram: [@dev.liara](https://www.instagram.com/dev.liara/)  
+Tenho 24 anos e sou formada em Ciência da Computação pela [Unijuí](https://www.unijui.edu.br/)**. Atualmente, atuo como Desenvolvedora Fullstack Júnior na [Philips do Brasil](https://www.philips.com.br/)**, trabalhando no desenvolvimento e evolução de aplicações, com foco especial em backend.
 
+Sou apaixonada por tecnologia e estou constantemente aprimorando minhas habilidades em Java, Spring Boot e desenvolvimento de APIs, buscando escrever código limpo, escalável e de qualidade. Também tenho experiência com o ecossistema fullstack, o que me permite ter uma visão mais completa das aplicações.
+<br>
+<br>
   <a href="https://instagram.com/https:/dev.liara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:liara.oliveira12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=" www.linkedin.com/in/liara-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
