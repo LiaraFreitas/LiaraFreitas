@@ -1,9 +1,8 @@
 
 
-## 🧑‍💻 Liara Freitas 
-Tenho 24 anos e sou formada em Ciência da Computação pela [Unijuí](https://www.unijui.edu.br/)**. Atualmente, atuo como Desenvolvedora Fullstack Júnior na [Philips do Brasil](https://www.philips.com.br/)**, trabalhando no desenvolvimento e evolução de aplicações, com foco especial em backend.
-
-Sou apaixonada por tecnologia e estou constantemente aprimorando minhas habilidades em Java, Spring Boot e desenvolvimento de APIs, buscando escrever código limpo, escalável e de qualidade. Também tenho experiência com o ecossistema fullstack, o que me permite ter uma visão mais completa das aplicações.
+## 🧑‍💻 Olá! Eu sou Liara Freitas
+### Desenvolvedora de Software Júnior | Back-End | Java | Spring Boot
+Sou formada em Ciência da Computação pela [Unijuí](https://www.unijui.edu.br/) e atuo com desenvolvimento de software, com foco em Back-End utilizando Java e Spring Boot. Tenho experiência profissional em desenvolvimento e também experiência anterior em suporte técnico, o que me proporcionou uma visão ampla sobre produtos de software, investigação de problemas e necessidades dos usuários. Atualmente, estou aprofundando meus conhecimentos em arquitetura de microsserviços, APIs REST, segurança, persistência de dados, comunicação entre serviços, testes automatizados e boas práticas de desenvolvimento.
 <br>
 <br>
   <a href="https://instagram.com/https:/dev.liara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,13 +15,16 @@ Sou apaixonada por tecnologia e estou constantemente aprimorando minhas habilida
 
  **🛠 Linguagens e Tecnologias**
 <div style="display: inline_block">
-  <img align="center" alt="Liara-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Liara-Boostrap" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
-  <img align="center" alt="Liara-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Liara-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Liara-SQL"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Liara-Java"  height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Liara-Spring"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Liara-Docker"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Liara-Junit"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+  <img align="center" alt="Liara-Gradle"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
+  <img align="center" alt="Liara-Liquibase"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" />
+          
+          
+          
+  <img align="center" alt="Liara-SQL"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Liara-MongoDB"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
     
           
