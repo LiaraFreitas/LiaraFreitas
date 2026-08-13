@@ -13,7 +13,7 @@ Sou formada em Ciência da Computação pela [Unijuí](https://www.unijui.edu.br
 
 
 
- **🛠 Linguagens e Tecnologias**
+### 🛠 Linguagens e Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Liara-Java"  height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Liara-Spring"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -21,6 +21,10 @@ Sou formada em Ciência da Computação pela [Unijuí](https://www.unijui.edu.br
   <img align="center" alt="Liara-Junit"  height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
   <img align="center" alt="Liara-Gradle"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
   <img align="center" alt="Liara-Liquibase"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original-wordmark.svg" />
+  <img align="center" alt="Liara-Git"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Liara-Sonar"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
+          
+          
           
           
           
@@ -33,13 +37,78 @@ Sou formada em Ciência da Computação pela [Unijuí](https://www.unijui.edu.br
 <br>
   
 <div>
-  
-### 📊 Estatísticas
-<a href = "https://github.com/LiaraFreitas/LiaraFreitas">
-<img height="200" align = "left" src = "https://github-readme-stats.vercel.app/api?username=LiaraFreitas&theme=dracula&include_all_commits=true&show_icons=true&locale=pt-br"/>
-<img height="200" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LiaraFreitas&theme=dracula&hide_progress=true&locale=pt-br" />
 
-</div> 
+# 🚀 Projeto em Destaque - Agendador de Tarefas
 
+Projeto Back-End desenvolvido com **Java 17 e Spring Boot**, utilizando uma arquitetura baseada em **microsserviços**.
+
+A aplicação é composta por serviços independentes responsáveis pelo gerenciamento de usuários, agendamento de tarefas e envio de notificações, além de uma camada **BFF (Back For Frontend)** para intermediar a comunicação entre o cliente e os serviços.
+
+### Principais conceitos aplicados
+
+* Arquitetura de microsserviços
+* APIs REST
+* Spring Security
+* JWT
+* OpenFeign
+* BFF
+* MongoDB
+* Testes automatizados
+* Docker
+* GitHub Actions
+
+### 📂 Microsserviços do Projeto
+
+### 👤 Usuario
+
+Microsserviço responsável pelo gerenciamento de usuários e autenticação da aplicação.
+
+🔗 **[Ver repositório](https://github.com/LiaraFreitas/usuario)**
+
+### 📧 Notificação
+
+Microsserviço responsável pelo envio de notificações relacionadas às tarefas agendadas.
+
+🔗 **[Ver repositório](https://github.com/LiaraFreitas/notificacao)**
+
+### 🔌 BFF — Agendador de Tarefas
+
+Camada responsável por intermediar a comunicação entre o cliente e os microsserviços.
+
+🔗 **[Ver repositório](https://github.com/LiaraFreitas/bff-agendador-tarefas)**
+
+
+### 📅 Agendador de Tarefas
+
+Microsserviço responsável pelo agendamento de tarefas
+
+🔗 **[Ver repositório](https://github.com/LiaraFreitas/agendador-tarefas)**
+
+---
+
+# 📚 Conhecimentos em Desenvolvimento
+
+Tenho utilizado projetos práticos para aprofundar meus conhecimentos em:
+
+* Desenvolvimento de APIs REST
+* Arquitetura de microsserviços
+* Spring Boot
+* Spring Security
+* Persistência de dados
+* Comunicação entre microsserviços
+* Testes automatizados
+* Docker
+* Boas práticas de desenvolvimento
+* Arquitetura e design de aplicações Back-End
+
+---
+
+# 🎯 Objetivo Profissional
+
+Estou buscando uma oportunidade como **Desenvolvedora Back-End Júnior / Desenvolvedora Java Júnior**, onde possa contribuir com minha experiência e continuar evoluindo tecnicamente.
+
+Tenho especial interesse em projetos que utilizem:
+
+**Java • Spring Boot • APIs REST • Microsserviços • Bancos de Dados**
 
 
